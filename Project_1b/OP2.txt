@@ -1,3 +1,0 @@
-Caught Exception for empty stack!
-World
-Hello
